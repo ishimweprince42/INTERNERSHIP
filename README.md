@@ -1,4 +1,4 @@
-# project
+# internship
 
 ## Project setup
 ```
